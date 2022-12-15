@@ -94,3 +94,75 @@ IBOVESPA as 10 horas da manhã
 Os minicontratos tem uma alta liquidez. A liquidez é necessária para que seja possivel movimentar grande volume financeiro sem impactar o preço do ativo, são essencias para operações no daytrading e no _scalp_.
 
       Scalp -> As operações de scalp acontecem em movimentos muito curtos, com pontuações mais baixas e volume de negociação mais alto.
+
+Os minicontratos de indice contem vencimento, ao final de messs pares, nas quartas-feiras mais próximas do dia 15
+
+### Caracteristicas de minicontrato de dolar
+
+* Dolár é mais alavancado que o mini-indice. Para cada ponto são 10 reais.
+* A variação oscilada é de .5 em .5 ponto.
+* Dolar tem vencimento todos os meses
+
+### Nomeclatura dos indices
+
+Mini-indice -> Sufixo WIN + letra correspondente ao mes + ano
+
+      Ex:. Dezembro WINZ22
+
+Mini dolar -> Sufixo WDO + letra correspondente ao mes + ano
+
+      Ex:. Abril WDOJ22
+
+
+
+ Mês| IND/WIN | DOL/WDO
+-----|-----|---------
+Janeiro|    |F
+Fevereiro|G  |G
+Março||H
+Abril|J|J
+Maio||K
+Junho|M|M
+Julho||N
+Agosto|Q|Q
+Setembro||U
+Outubro|V|V
+Novembro||X
+Dezembro|Z|Z
+
+### Ajuste diário
+
+Significa que todos os dias, os minicontratos tanto de indice quanto de dolar, passam por ajustes financeiros (crédito ou débito) de acordo com a variação dos preços do dia anterior
+
+
+## Teoria de Dow
+
+A teoria de Dow é um conjunto de principios de analise técnica desenvolvida pelo investidor Charles Dow, no final do século 19. A teoria se baseia na ideia de que os movimentos de preço  das ações refletem todas as informações disponiveis sobre uma empresa, incluindo fatores fundamentais como lucros e perspectivas de crescimento.
+
+### Principios da teoria de Dow
+
+Os principais principios são:
+
+1. O mercado de ações é o reflexo de todas as informações disponiveis sobre uma empresa. Portanto, os movimentos de preços das ações refletem tudo que os investidores sabem sobre a empresa.
+2. O mercado de ações se move em tendências. Essas tendências podem ser de alta, quando os preços das aões estão subindo, ou de baixa, quando os preços estão caindo.
+3. As tendencias de alta são formadas por três etapas:
+   1. Ascenção
+      1. Durante a ascenção, os preços das ações começam a subir e os investidores começam a comprar.
+   2. Correção
+      1.  Na correção, os preços se estabilizam e os investidores vendem para realizar lucros.
+   3. Confirmação
+      1. Na confirmação os preços continuam a subir e os investidores continuam a comprar, confirmando a tendencia de alta
+4. As tendências de baixa tem as mesmas caracteristicas. Primeiro, os preços das ações começam a cair e os investidores começam a vender. Em seguida, os preços se estabilizam e os investidores compra para cobrir suas posições. Por fim, os preços continuam a cair, confirmando a tendência de baixa.
+5. O mercado de ações é composto por três tipos de ações:
+   1. Lideres de alta
+      1. São aqueles que estão em tendencia de alta e são consideradas boas oportunidades de investimento
+   2. Lideres de baixa
+      1. As ações lideres de baixa são aquelas em tendencia de baixa e devem ser evitadas
+   3. Ações indiferentes
+      1. As ações indiferentes não estão em tendencia e podem ser ignoradas pelos investidores
+
+## Suporte e Resistência
+
+<!-- Pesquisar no ChatGPT3 -->
+
+O suporte e a resistencia são conceito importantes na analise tecnica do mercado de ações.
